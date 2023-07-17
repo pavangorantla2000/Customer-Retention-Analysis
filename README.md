@@ -1,6 +1,6 @@
 # Customer Retention Analysis
 
-![Retention Analysis](/Customer-Retention-Analysis/all_customers.png)
+![Retention Analysis](/all_customers.png)
 
 ## Background
 
